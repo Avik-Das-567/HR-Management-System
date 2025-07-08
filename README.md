@@ -1,4 +1,4 @@
-# HR Management System
+# Flask App - HR Management System
 ---
 ## What is an HR Management System?
 - An **HR Management System** is used to **store**, **view**, **update**, and **delete** employee records.
