@@ -45,7 +45,7 @@ HR-Management-System/
   http://127.0.0.1:5000
   ```
 ---
-## Preview Image of the Web Page : 
+## Preview Image of the App : 
 ![HR-Management-Screenshot](https://github.com/user-attachments/assets/3a02792a-831c-4454-87cf-d4cc1d175e87)
 
 ---
